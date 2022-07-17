@@ -245,12 +245,38 @@
           null,
           1,
           1,
+          null,
+          1,
           null
         ]
       },
       "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/spec/features/recipes/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -292,6 +318,42 @@
           null
         ]
       },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/recipe_ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/controllers/ingredients_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/controllers/recipes_controller.rb": {
         "lines": [
           1,
@@ -307,29 +369,8 @@
           null,
           null
         ]
-      },
-      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/recipe_ingredient.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/ingredient.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1658081428
+    "timestamp": 1658084197
   }
 }
