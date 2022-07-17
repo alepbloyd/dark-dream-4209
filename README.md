@@ -81,5 +81,6 @@ I see the total cost of all of the ingredients in the recipe.
 ```
 User Story Extension
 On all index pages, all information is listed alphabetically.
-	
+```
 
+### Initial commit at 1:12 PM EST
