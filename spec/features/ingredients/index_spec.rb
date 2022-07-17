@@ -23,6 +23,8 @@ RSpec.describe 'ingredient show page' do
 
     visit '/ingredients'
 
+    save_and_open_page
+
     expect(page).to have_content("Pasta: 1")
     expect(page).to have_content("Meat: 2")
     expect(page).to have_content("Cheese: 3")
