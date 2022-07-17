@@ -17,4 +17,21 @@ RSpec.describe 'recipe index page' do
     expect(page).to have_content(recipe_2.complexity)
     expect(page).to have_content(recipe_2.genre)
   end
+
+  it 'displays recipes alphabetically' do
+
+    recipe_1 = Recipe.create!(name: "Spaghetti", complexity: 2, genre: "Italian")
+
+    recipe_2 = Recipe.create!(name: "Pupusas", complexity: 3, genre: "El Salvadorian")
+
+    visit '/recipes'
+
+    within '#recipe-1' do
+      expect(page).to have_content(recipe_2.name)
+    end
+
+    within '#recipe-2' do
+      expect(page).to have_content(recipe_1.name)
+    end
+  end
 end
