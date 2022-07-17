@@ -244,6 +244,7 @@
           null,
           null,
           1,
+          1,
           null
         ]
       },
@@ -253,8 +254,32 @@
           null
         ]
       },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/spec/features/recipes/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/recipe.rb": {
         "lines": [
+          1,
           1,
           1,
           null
@@ -275,6 +300,11 @@
           1,
           null,
           null,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -283,8 +313,23 @@
           1,
           null
         ]
+      },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/recipe_ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/alexboyd/turing/2mod/ics/dark-dream-4209/app/models/ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1658078842
+    "timestamp": 1658081428
   }
 }
